@@ -1,0 +1,6 @@
+how to merge the main and the branch
+follow the below steps
+git checkout main
+git merge sikayede.money
+git status
+git push origin
